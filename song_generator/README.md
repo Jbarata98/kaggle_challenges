@@ -9,6 +9,7 @@ The primary goal of this challenge was to showcase the ability to generate songs
 
 The project folder is organized as follows:
 
+``` bash
 project-folder/
 │
 ├── data/
@@ -31,6 +32,7 @@ project-folder/
 │ ├── plot_data.py
 │ 
 └── README.md
+```
 
 ## Contents
 
