@@ -1,0 +1,11 @@
+GPUtil
+wandb
+pandas==1.5.3
+transformers
+datasets==2.11
+torch
+diffusers
+GPUtil
+evaluate
+bert-score
+git+https://github.com/google-research/bleurt.git
