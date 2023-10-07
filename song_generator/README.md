@@ -64,7 +64,7 @@ Training Taylor: Run the train_taylor notebook, which is responsible for fine-tu
 Visualizing with Diffuser: After training the model, you can visualize the results using the vis_diffuser notebook. This step allows you to generate songs and album covers based on the fine-tuned generation model.
 
 
-Model Artifacts
+### Model Artifacts
 The model artifacts, including the fine-tuned generation model, may be saved in a personal WandB (Weights and Biases) account.
 
 
